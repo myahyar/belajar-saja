@@ -1,3 +1,3 @@
 # bahasa inggris
 # css tutorial
-  - [rounded corner](css rounded corner)
+  - [rounded corner](css rounded corner.md)
